@@ -109,8 +109,8 @@ Utilisez l'onglet extensions de VS Code pour installer un gestionnaire de `.giti
 ### 16. Ajouter un fichier `.gitignore`
 Créez un fichier `.gitignore` et ajoutez:
 ```
-bin/
-obj/
+bin
+obj
 *.csproj
 *.sln
 ```
