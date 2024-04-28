@@ -14,7 +14,9 @@ Avant de commencer, assurez-vous d'avoir installé sur votre machine:
 Ouvrez un explorateur de fichiers et naviguez vers votre bureau.
 
 ### 2. Ouvrir la ligne de commande (cmd)
-Pressez `Win + R`, tapez `cmd`, et pressez `Entrée`.
+- Pressez `Win + R`, tapez `cmd`, et pressez `Entrée`.
+- cd Desktop (ou cd Bureau)
+
 
 ### 3. Créer un dossier pour le projet
 Tapez la commande suivante dans le terminal cmd:
