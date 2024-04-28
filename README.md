@@ -44,7 +44,7 @@ cd code1
 ```bash
 code .
 ```
-
+## Arrivé ici, vous allez voir l'arboresnce de votre projet (Allez à Program.cs)
 ### 8. Fermer tous les autres terminaux
 Assurez-vous que tous les terminaux autres que celui de VS Code soient fermés.
 
