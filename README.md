@@ -141,10 +141,10 @@ git status
 Assurez-vous de ne pas initialiser avec un fichier README.md.
 
 ### 21. Lier le dépôt local au dépôt distant et pousser
+- Vous trouverez ce code dans le deuxième rectangle !!!!!! Svp, ne pas utiliser ce lien https://github.com/hrhouma/examen_resolution.git dans la commande ci-bas de git remote add origin.
+- Utilisez celui affiché pour vous ! 
 ```bash
-git remote add
-
- origin https://github.com/hrhouma/examen_resolution.git
+git remote add origin https://github.com/hrhouma/examen_resolution.git (Attention, utilisez le VOTRE)
 git branch -M exercice1
 git push -u origin exercice1
 ```
