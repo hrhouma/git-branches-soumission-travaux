@@ -213,8 +213,20 @@ namespace Recherche1
     }
 }
 ```
+### 24. Refaire les mêmes étapes pour la gestion de version avec git dans le terminal
 
-### 24. Vérifier les branches sur GitHub
+- on répète :
+
+```ssh
+git status 
+git add .
+git status
+git commit -m "ajout de la modification dans la branche exercice2"
+git status
+git push -u origin exercice2
+```
+
+### 25. Vérifier les branches sur GitHub
 Naviguez sur GitHub pour voir les branches `exercice1` et `exercice2`.
 
 ## Conclusion
